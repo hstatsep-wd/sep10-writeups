@@ -14,3 +14,5 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
   * [Git & Github](02-github/github-writeup.md)
 * Unit 3: Advanced Web Design
   * [Bootstrap](03-advanced-wd/bootstrap-writeup.md)
+
+[HSTAT SEP writeup docs](https://github.com/hstatsep/other/tree/main/writeups)
